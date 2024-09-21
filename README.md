@@ -1,4 +1,3 @@
-# backend_importapp_v2
 # Importing Firm Management System
 
 ## Overview
